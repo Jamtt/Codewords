@@ -3,7 +3,7 @@
 
 function setup() {
 createCanvas(windowWidth, windowHeight); 
-font = loadFont('data/PERTILI.ttf');
+font = loadFont('data/PERTILI.TFF');
 textFont (font);
 textAlign (CENTER);
 }
