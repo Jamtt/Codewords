@@ -1,13 +1,9 @@
-function preload() { 
-font = loadFont('data/PERTILI.ttf');
-}
 
 
 
 function setup() {
 createCanvas(windowWidth, windowHeight); 
-
-
+font = loadFont('data/PERTILI.ttf');
 textFont (font);
 textAlign (CENTER);
 }
