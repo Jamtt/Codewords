@@ -1,3 +1,3 @@
 # SKO
 
-This is where you do the SKO
+This is where I do the SKO
