@@ -1,6 +1,7 @@
 # Codewords 👋
 
-BingoBongo
+"BingoBongo" 
+-Karen Ann Donnachie
 
 ```
 console.log('it works!');
