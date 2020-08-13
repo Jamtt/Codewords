@@ -1,5 +1,5 @@
 function preload() { 
-font = loadFont('data/PERTILI.ttf');  
+font = loadFont('data/PERTILI.otf');  
 } 
 
 
