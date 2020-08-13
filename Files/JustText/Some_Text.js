@@ -1,4 +1,4 @@
-function setup() { 
+function preload() { 
 font = loadFont('data/PERTILI.ttf');  
 } 
 
