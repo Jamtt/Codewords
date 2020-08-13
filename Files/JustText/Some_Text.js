@@ -1,5 +1,5 @@
 function setup() { 
-font = loadFont('data/PERTILI.TTF');  
+font = loadFont('data/PERTILI.ttf');  
 } 
 
 
