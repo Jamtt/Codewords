@@ -2,4 +2,4 @@
 
 [Spaget](https://jamtt.github.io/Codewords/Files/JustText/)
 
-[JT Sketch](https://jamtt.github.io/Codewords/JT_Sketch/)
+[JT Sketch](https://jamtt.github.io/Codewords/Files/JT_Sketch/)
