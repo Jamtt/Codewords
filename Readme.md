@@ -3,6 +3,7 @@
 "BingoBongo" 
 -Karen Ann Donnachie
 
+![](Animalcrossing.gif)
 
 To fix all your problems use: 
 ```
