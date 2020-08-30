@@ -11,6 +11,6 @@ I came up with the idea of adding pong to asteroids aka “Pongstroids” -@Hami
 
 ## Brief 3 | Picking a Text
 
-We then confirmed the texts would be basing our final assignment on. For myself I chose the text Viruses Are Good for You by Julian Dibbell. This read was interesting read as it shed light on how people viewed Viruses as these unknown and alien like code and that not knowing what it they are capable of doing was scary for most people. Unlike a biological virus, these viruses are products of humans through culture, so it begs the question of why they scare us and feel so unhuman? I will continue to read through Dibbell’s article for ideas and themes in which I will translate to a paper prototype for my final brief. 
+We then confirmed the texts would be basing our final assignment on. For myself I chose the text Viruses Are Good for You by [Julian Dibbell](https://en.wikipedia.org/wiki/Julian_Dibbell). This read was interesting read as it shed light on how people viewed Viruses as these unknown and alien like code and that not knowing what it they are capable of doing was scary for most people. Unlike a biological virus, these viruses are products of humans through culture, so it begs the question of why they scare us and feel so unhuman? I will continue to read through Dibbell’s article for ideas and themes in which I will translate to a paper prototype for my final brief. 
 
 
