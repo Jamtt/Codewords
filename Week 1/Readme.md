@@ -7,9 +7,11 @@ We spoke a little about virtual worlds and them being used to connect and host e
 
 
 We also had our own virtual world with a Minecraft [replica](http://fuse.education.vic.gov.au/Resource/LandingPage?objectId=31466a40-3da7-4b02-9d36-c3cd1bdff365) of Melbourne CBD to magnificent detail.
-![](MinecraftCBD.jpg)
+
+![](Mine2.jpg)
 
 As a class we were put into creative mode and were able to build, explore and talk in game with other classmates. Since I had'nt visited the CBD since the start of the year it really felt nostalgic. 
+
 ![](Mine.jpg)
 >Thats me on the right above the panda! Image by Andy
 
