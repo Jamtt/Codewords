@@ -3,7 +3,7 @@
 "BingoBongo" 
 -Karen Ann Donnachie
 
-![](Animalcrossing.gif)
+![](Week_2/Animalcrossing.gif)
 
 To fix all your problems use: 
 ```
