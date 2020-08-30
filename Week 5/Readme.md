@@ -6,7 +6,7 @@ We started off this week by sharing some [rough cuts](https://www.youtube.com/wa
 
 ![](1.gif)
 
-There was a great range of creative interpretations from using cinematic camera angle, detailed scenes and music to portray their groups interpretation of the book. Our groups outcome was slightly rushed towards the end however the outcome was still well put together! Thanks Wholesome Animal Crossing Squad! 
+There was a great range of creative interpretations from using cinematic camera angle, detailed scenes and music to portray their groups interpretation of the book. Our groups outcome was slightly rushed towards the end however the outcome was still well put together! Thanks Wholesome Animal Crossing Squad! You can view the rationale and [here](https://wiip.co/THE-HORRORS-OF-ANIMAL-CROSSING.b-MEgcptSZluo8jwq7Tsi/).
 
 ## Brief 3
 
