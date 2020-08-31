@@ -1,4 +1,4 @@
-# Week Six | Thinking Simple
+# Week Six | Thinking In Paper
 
 ## Paper Prototypes
 ![](gif.gif)
