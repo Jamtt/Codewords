@@ -6,9 +6,11 @@ An artist that stood out to me was Takenobu Igarashi, a graphic, product, enviro
 
 ![](1.jpg)
 
+To see what examples of modular typefaces click [here](https://docs.google.com/presentation/d/1N2hAFp6si7UsVuPj1oMQ21_HHF858NbXZna0YQxOQio/edit#slide=id.p).
+
 ## Animal Crossing 
 
-We continued our Brief 2 with part 3 of the book being given to us. Our group decided to test out our virtual space and test the waters for any limitations of possible hurdles to come our way. Those included getting everyone together as Animal Crossings way of connecting users was slow and clunky and the limitations with recording being 30 seconds per clip and it being recorded backwards in time. Nevertheless we still managed to all get together! 
+We continued our Brief 2 with part 3 of the book being given to us. Our group decided to test out our virtual space and test the waters for any limitations of possible hurdles to come our way. Those included getting everyone together as Animal Crossings way of connecting users was slow and clunky and the limitations with recording being 30 seconds per clip and it being recorded backwards in time. Nevertheless we still managed to all get together! To view what virtual spaces other students chose click [here](https://docs.google.com/presentation/d/1c1KexKLj99n7Z-FLky9NW8Zqkgk1uo2tdibFXJoCwYc/edit#slide=id.p).
 
 ![](Animalcrossing.gif)
 
