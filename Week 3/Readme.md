@@ -8,6 +8,8 @@ This one made me think about if it reallt was electronic literature as the other
 
 ![](Red-Book.jpg)
 
+To see what other students found for their electronic literature click [here](https://docs.google.com/presentation/d/1N2hAFp6si7UsVuPj1oMQ21_HHF858NbXZna0YQxOQio/edit#slide=id.p).
+
 ## AI Dungeon
 We also joined AI dungeon as a class which is an online text based choose your own adventure where generative text determines stories and events.  It was a little chaotic for all the students to be inputting actions and at one point we created an infinite loop that broke the game. I later attempted to complete a narrative by myself and surprisingly the game was smooth in responses and analysed my actions with interesting reactions. 
 
