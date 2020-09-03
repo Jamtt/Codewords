@@ -3,6 +3,8 @@
 "BingoBongo" 
 > -Karen Ann Donnachie
 
+![](Animalcrossing.gif)
+
 <nav>
   
 ### <a href="Week 1">Week One</a> | An Introduction to CodeWords!
