@@ -13,8 +13,6 @@ function preload() {
 
 function setup() {
 createCanvas(windowWidth,windowHeight);
-;
-//background(0);
 imageMode(CENTER);
 button = createButton("Create");
 button.mousePressed(toggle);
@@ -30,24 +28,20 @@ textSize(12);
 text("Image Size", 260 -47,24);
 text("Image Ammount", 570 -58,24);
 
-
-//textFont("Times");
 textSize(18);
 textAlign(CENTER);
 text("Designed by Jamie Tung for Lauren McNeil | Brief 2 Capstone", windowWidth/2, windowHeight/1.8);
 textSize(100);
 text("Collaging Collages", windowWidth/2, windowHeight/2);
-
 }
 
 
-let colors = ["#F06543","#E8E9EB","#e0dfd5","#313638", "#f09d51"];
+let colors = ["#F06543","#E8E9EB","#e0dfd5","#313638","#f09d51"];
 
 function toggle() { 
 let x = int(slider.value());
 let ammount = int(slider2.value());
  
-
     background(255); 
     for (let a = 1; a < ammount +1; a++) {
     imageMode(CENTER); 
@@ -55,7 +49,7 @@ let ammount = int(slider2.value());
     }
     
     for (let b = 1; b < random(2,ammount) ; b++) {
-    
+      
       if (x <= 250){
       g = random(25,x-100);
       } else if (x <= 500) {
@@ -66,25 +60,19 @@ let ammount = int(slider2.value());
       g = random(100,x-500);
     }
     
-    
     fill(random(colors));
     noStroke();
     ellipse(random(windowWidth),random(windowHeight),g,g);
     }
 
-console.log(g);
-
 fill(0);
 textSize(12);
 text("Image Size = " + x, 260,24);
-
 text("Image Ammount = " + ammount , 570,24);
-
 text("Collaging Collages | Designed by Jamie Tung for Lauren McNeil | Brief 2 Capstone", windowWidth - 225, 24);
 } 
 
 
 function draw() {
 
-  //rect(random(windowWidth),random(windowHeight),200,200);
 }
