@@ -17,4 +17,4 @@ Experiments and documentation:
 
 [Collage for Lauren](https://jamtt.github.io/Codewords/Files/LaurenCollage/)
 
-[Matt Duncan](https://jamtt.github.io/Codewords/Files/MattDuncan/)
+[Matt Duncan](https://jamtt.github.io/Codewords/Files/MattDuncann/)
