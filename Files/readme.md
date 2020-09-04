@@ -9,4 +9,4 @@ Experiments and documentation:
 
 [Spinning Text](https://jamtt.github.io/Codewords/Files/spin_text/)
 
-[Collage](https://jamtt.github.io/Codewords/Files/Lauren_College/)
+[Collage for Lauren](https://jamtt.github.io/Codewords/Files/LaurenCollage/)
