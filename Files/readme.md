@@ -1,6 +1,8 @@
 # Just some projects
 Experiments and documentation: 
 
+![](PianoCat.gif)
+
 [Spaget](https://jamtt.github.io/Codewords/Files/JustText/)
 
 [JT Sketch](https://jamtt.github.io/Codewords/Files/JT_Sketch/)
