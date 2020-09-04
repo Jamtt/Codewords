@@ -10,3 +10,5 @@ Experiments and documentation:
 [Spinning Text](https://jamtt.github.io/Codewords/Files/spin_text/)
 
 [Collage for Lauren](https://jamtt.github.io/Codewords/Files/LaurenCollage/)
+
+[Matt Duncan](https://jamtt.github.io/Codewords/Files/Sketch_paragraph_tut/)
