@@ -47,7 +47,7 @@ song.addCue(13.9, yes, "fill");
   song.addCue(14.05, yes, "up");
 song.addCue(14.2, yes, "your");
 song.addCue(14.5, yes, "every");
-song.addCue(15.5, yes, "sence");
+song.addCue(15.5, yes, "sense");
 song.addCue(17, yes, " ");
 
 song.addCue(17.8, yes, "and");
