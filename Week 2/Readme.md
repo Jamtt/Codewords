@@ -1,5 +1,5 @@
 # Week Two | Wholesome Animal Crossing
-This week touched into the modular typeface designs and algorithmic type creations which related to our previous letter forms we created in P5js. We also began exploring our chosen virtual world by jumping into a spcae together and figuring out some possible limitations.
+This week touched into the modular typeface designs and algorithmic type creations which related to our previous letter forms we created in P5js. We also began exploring our chosen virtual world by jumping into a space together and figuring out some possible limitations.
 
 ## Takenobu Igarashi
 An artist that stood out to me was Takenobu Igarashi, a graphic, product, environmental and sculpture designer who worked with lucid forms of type. Shown below are examples of his Jazz Festival posters which use a simple shapes in a certain perspective to create letterforms. Igarashi’s type design was often built from simple geometric shapes but the composition and placement of those shapes were what made his work unique and iconic. 
