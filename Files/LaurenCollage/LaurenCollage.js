@@ -26,7 +26,7 @@ text("Image Ammount", 570 -58,24);
 
 textSize(18);
 textAlign(CENTER);
-text("Designed by Jamie Tung for Lauren McNeil | Brief 2 Capstone", windowWidth/2, windowHeight/1.8);
+text("Designed by Jamie Tung for Lauren McNeill | Brief 2 Capstone", windowWidth/2, windowHeight/1.8);
 textSize(100);
 text("Collaging Collages", windowWidth/2, windowHeight/2);
 
@@ -65,7 +65,7 @@ fill(0);
 textSize(12);
 text("Image Size = " + x, 260,24);
 text("Image Ammount = " + ammount , 570,24);
-text("Collaging Collages | Designed by Jamie Tung for Lauren McNeil | Brief 2 Capstone", windowWidth - 230, 24);
+text("Collaging Collages | Designed by Jamie Tung for Lauren McNeill | Brief 2 Capstone", windowWidth - 230, 24);
 } 
 
 function draw() {
