@@ -5,8 +5,7 @@
 
 ![](Animalcrossing.gif)
 
-<nav>
-  
+
 ### <a href="Week 1">Week One</a> | An Introduction to CodeWords!
 
 ### <a href="Week 2">Week Two</a> | Wholesome Animal Crossing
@@ -18,7 +17,9 @@
 ### <a href="Week 5">Week Five</a> | Showtime
 
 ### <a href="Week 6">Week Six</a> | Thinking In Paper
-</nav>
+
+### <a href="Week 7 Intermission">Intermission</a> | Collages and Christmas
+
 
 To fix all your problems use: 
 ```
