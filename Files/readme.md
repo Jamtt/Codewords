@@ -18,3 +18,7 @@ Experiments and documentation:
 [Collage for Lauren](https://jamtt.github.io/Codewords/Files/LaurenCollage/)
 
 [Matt Duncan](https://jamtt.github.io/Codewords/Files/MattDuncann/)
+
+[Lion Theme](https://jamtt.github.io/Codewords/Files/Lion/)
+
+[What is Hip!](https://jamtt.github.io/Codewords/Files/What_is_Hip/)
