@@ -30,7 +30,7 @@ Check out there progress:
 
 Paper prototypes again were great for generating ideas fast with very little work required. After having our group talks we shared some links of interesting sketches that others made. One that really stuck to me was Keytweeter by Kyle McDonald. 
 
-It’s a crazy project where McDonald records all the typing he does on his keyboard for a year with the exception of sensitive information gets posted on a twitter account. The fascinating concept of having all this information to the public has some a strange vulnerable feeling like a virus within a computer. McDonald within the documentary talks about how it was strange at the beginning but later he got use to it. 
+It’s a crazy project where McDonald records all the typing he does on his keyboard for a year with the exception of sensitive information gets posted on a twitter account. The fascinating concept of having all this information to the public has some a strange vulnerable feeling like a virus within a computer. McDonald within the documentary talks about how it was strange at the beginning but later he got use to it. Here is an example of McDonald coding as the keytweeter logging what he writes. 
 ![](keytweeter.PNG)
 > Watch the doco [here](https://vimeo.com/9922212)
 
@@ -49,7 +49,7 @@ Second sketch was a simpler approach which also used sin waves and rotate but wi
 ![](WhatisHip.PNG)
 > View the sketch [here](https://jamtt.github.io/Codewords/Files/What_is_Hip/)
 
-I hope it makes you Hip
+I hope it makes you Hip 💃
 
 
 
