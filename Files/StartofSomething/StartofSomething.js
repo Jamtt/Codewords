@@ -1,4 +1,5 @@
 // This is my start of the sketch but im not too sure if ill continue down this path. 
+// Remix of https://www.geeksforgeeks.org/p5-js-createinput-function/
 // The typeface is called Redaction and is a typeface that I think would be really appropriate for a project like this. 
 
 var input;
@@ -20,7 +21,7 @@ textAlign(CENTER);
 button = createButton('Tweetme');
 button.position(width-100, height -50);
 
-// This would be where the text input goes from API articles of Viruses. 
+// This would be where the text input goes from API articles of Viruses. I would like it to have a handwritten animation to it
 
 input = createInput('Language is a Virus');
 input.input(onInput);
@@ -35,7 +36,7 @@ input.position(30,40);
 }
 
 // This would be an area where the user could highlight over a word and click on it to change it through Rita.js
-// Might have to break down every word using Classes for this though.
+// Might have to break down every word using Classes for this though. 
 
 function onInput(){
 clear();  
