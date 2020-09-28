@@ -32,7 +32,7 @@ Let me break it down even further. The concept is built off Julian Dibbell’s t
 My psudeocode attempts to bridge this answer and takes the misconception of viruses almost always being portrayed as destructive and alien and ultimately to change that. 
 ``` It firstly takes an existing article header that someone has written about viruses > asks the user to change any negative words within this article through rITA.js > and then pushes it out into the internet through twitter to hopefully shed more light and balance the negatives with random headlines about viruses. ```
 
-As a class we shared all our ideas for our final projects and it was really great to see everyone’s ideas for their chosen texts. One that stood out to me was Jackie’s idea of using the camera to interact with text. By having the users head oscillate, it would slowly reveal text which is making the user work to read! You can view her idea [here.](https://github.com/jackieliiu/CODEWORDS/tree/master/Week08) 
+As a class we shared all our ideas for our final projects and it was really great to see [everyone’s ideas](https://docs.google.com/presentation/d/1dX_ZDAdoo_U-JSXTtUxhwClVBWJZjEu7X48fx6t4-Zc/edit#slide=id.g980079f83c_12_5) for their chosen texts. One that stood out to me was Jackie’s idea of using the camera to interact with text. By having the users head oscillate, it would slowly reveal text which is making the user work to read! You can view her idea [here.](https://github.com/jackieliiu/CODEWORDS/tree/master/Week08) 
 Towards the end of seeing everyones work and consulting with Andy and Karen about our ideas, I felt that mine had many holes and flaws in it. Perhaps it wasn’t telling a narrative that I wanted it to tell and felt a little forced. 
 
 ## Classes in p5js
