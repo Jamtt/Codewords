@@ -37,7 +37,7 @@ Towards the end of seeing everyones work and consulting with Andy and Karen abou
 
 ## Classes in p5js
 
-![](22.png)
+![](22.PNG)
 
 In todays live coding session with Karen, we explored the topic of creating classes in p5js. Classes in a nutshell allow the sketch to create individual element each with their own processes rather then creating elements as a part of a grouped command. It was a harder concept to get my mind around but Karen explaining it further really helped. Having the ability to use classes ofcourse was a big breakthrough for everyone. It gave us more control over what was being put on the page. Here is the example we worked on where we assigned mousepressed to push a new letter from within a string into the sketch. Each of these letters having a jiggle affect where they would randomly move on the x and y axis each framecount. 
 
