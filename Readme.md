@@ -1,5 +1,7 @@
 # Welcome to Codewords 👋
 
+A place where code and words come togehter
+
 "BingoBongo" 
 > -Karen Ann Donnachie
 
@@ -19,6 +21,12 @@
 ### <a href="Week 6">Week Six</a> | Thinking In Paper
 
 ### <a href="Week 7 Intermission">Intermission</a> | Collages and Christmas
+
+### <a href="Week 7">Week Seven</a> | What is Hip? 
+
+### <a href="Week 8">Week Eight</a> | Classes in Class
+
+### <a href="Week 9">Week Nine</a> | Friendly Virus
 
 
 To fix all your problems use: 
