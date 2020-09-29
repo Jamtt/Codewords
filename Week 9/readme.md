@@ -1,4 +1,4 @@
-# Week 9 | 
+# Week 9 | Friendly Virus
 ##  Thinking and Rethinking 	
 We were asked in class to simply work on something. It didn’t need to look anything near to our final project but aslong as you had some code, that was a start to the project. I created a sketch that had an input to represent the API sourcing text. The input text would then be displayed on the screen where the user would interact with it. Then there was a tweet me button below to send the tweet off. The typeface selected was an interesting one called redaction where the font family was various degrees of pixilation/censorship from a serif typeface to a bitmap looking one. This was just to have something on the table since I knew in class that I wanted to change my concept to something else. 
 
