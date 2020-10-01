@@ -85,7 +85,6 @@ if( counter < reply.length) {
 }
 
 
-  //sentence.push(reply);
 
 
 }
@@ -102,15 +101,3 @@ counter = 0;
 
 
 
-
-//function keyPressed() {
-//  if (keyCode === BACKSPACE) {
-//    textStr = textStr.replace(textStr[textStr.length - 1], '');
-        
-
-//   } else if ( keyCode === SHIFT || keyCode === RETURN || keyCode === TAB || keyCode === ESCAPE || keyCode === SHIFT || keyCode === CONTROL || keyCode === OPTION || keyCode === ALT || keyCode === UP_ARROW || keyCode === DOWN_ARROW || keyCode === LEFT_ARROW || keyCode === RIGHT_ARROW || keyCode === 91 || keyCode === 93) {  
-//  } else {
-// textStr += key; 
-//}
-
-//}
