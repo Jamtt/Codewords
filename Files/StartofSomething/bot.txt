@@ -1,0 +1,11 @@
+// Chatbot's brain
+! version = 1.9
+
++ [*](hello|hi|howdy|what up|what's up|hey)[*]
+- Hello! My name is Elliot and I am a Virus.
+
+
++ *
+- Say hello!
+
+
