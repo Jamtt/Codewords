@@ -140,6 +140,8 @@ if(waiting == 100) {
   reply = " Hello? ";
 } else if (waiting == 200) {
   reply = "Is anyone there?";
+} else if (waiting == 299) {
+  reply = "A quote from my favourite Author: Why then, after a decade of coesistence with computer viruses, does our default response to them remain a mix of bafflement and dread? -Julian Dibbell";
 }
 
 
