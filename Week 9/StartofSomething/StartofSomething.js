@@ -14,6 +14,7 @@ var song;
 var index = 0;
 var right;
 var yes = 0;
+var waiting = 0;
 
 var osc;
 
@@ -134,6 +135,12 @@ translate(width/4, 0);
 text(reply.substring(index, right +1),0, height/2.2, width/2, height/2);
 
 
+waiting++; 
+if(waiting == 100) {
+  reply = " Hello? ";
+} else if (waiting == 200) {
+  reply = "Is anyone there?";
+}
 
 
 }
@@ -164,6 +171,7 @@ if( start == 1) {
   start = 0;
   song.loop();
   yes = 0;
+  waiting = 300;
   
   }
 } 
@@ -175,5 +183,6 @@ chat();
 index = 0;
 inputElem.value('');
 yes = 0;
+waiting = 300;
   }
 }
