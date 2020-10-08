@@ -123,27 +123,7 @@ if (index == reply.length) {
   
 translate(width/4, 0);
 text(reply.substring(index, right +1),0, height/2.2, width/2, height/2);
-
-yes++; 
-
-if(yes > 50) {
-  
-  reply = " hello? "; 
-
-
-} else if (yes > 100) {
- 
-  reply = "is anyone there?";
-  
-} else {
-    
 }
-  
-  
-}
-console.log(yes);
-}
-
 
 
 //--------------------------------------------------------------------------
