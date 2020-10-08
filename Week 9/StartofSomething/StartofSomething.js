@@ -105,8 +105,13 @@ textAlign(CENTER);
 if ( index < reply.length) {
 var timer = reply.length * -1;
 right = timer + ((index) * timer);
+var tones = [ 207.65,164.81 ]; //a3b & e3
+// c major 261.63,293.66,329.63,349.23,392.00,440.00,493.88,523.25
+// c major thirds 261.63,329.63,392.00,493.88
+// a flat major 3rds 207.65,130.81,155.56,196.00
+// 65.41,130.81,261.63
 
-    osc.freq(207.65, 0.1);
+    osc.freq(random(tones), 0.1);
     osc.amp(0.11, 0.1);
     osc.start();
     playing = true;
