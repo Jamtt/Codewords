@@ -1,4 +1,4 @@
-// Conversation with a Virus
+// "We’re not all bad" Conversation with a Virus
 // Built by Jamie Tung for Studio CodeWords run by Andy Simionato & Karen ann Donnachie.
 
 // References
@@ -75,9 +75,9 @@ inputElem.style('color', '#DCDCDC');
 inputElem.style('background-color', '#ffffff');
 inputElem.style('font-size', '35px');
 if (windowWidth >= 1920) {
-inputElem.position(width -400 ,height/2-28);
+inputElem.position(width -400 ,height/2-25);
 } else if (windowWidth >= 1440) {
-inputElem.position(width -380 ,height/2-28);
+inputElem.position(width -380 ,height/2-25);
 } else if (windowWidth >= 1024) {
 inputElem.position(width -365  ,height/1 -380); 
 } else if (windowWidth >= 700) {
@@ -125,7 +125,7 @@ text("CodeWords 2020", width/6 -100, height/1 -24);
 } else if (windowWidth >= 700) { 
 text("CodeWords 2020", width/6 -70, height/1 -24);
 }else if (windowWidth >= 300) { 
-text("CodeWords 2020", width/2 -148, height/1.11);
+text("CodeWords 2020", width/1.8 , height/1.22);
 }
 pop();
 
@@ -327,7 +327,7 @@ if(waiting == 30) {
 } else if (waiting == 300) {
   reply = "Is anyone there?";
 } else if (waiting == 399) {
-  reply = "A quote from my favourite Author: Why then, after a decade of coesistence with computer viruses, does our default response to them remain a mix of bafflement and dread? -Julian Dibbell";
+  reply = "A quote from my favourite Author: Why then, after a decade of coexistence with computer viruses, does our default response to them remain a mix of bafflement and dread? -Julian Dibbell";
 }
 
 
