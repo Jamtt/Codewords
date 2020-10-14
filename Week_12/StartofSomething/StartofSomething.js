@@ -255,7 +255,16 @@ pop();
 }
 
 //Reply length to text size ------------------------ 
-if(windowWidth > 375) {
+if(windowWidth => 1000) {
+
+if (reply.length > 60) {
+textSize(30);
+translate(0,-70);
+} else {
+textSize(45);
+}
+
+} else if (windowWidth < 1000) {
 if (reply.length > 60) {
 textSize(35);
 translate(0,-70);
