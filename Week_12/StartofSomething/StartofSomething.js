@@ -5,7 +5,7 @@
 // https://editor.p5js.org/re7l/sketches/RjwfE-_G
 // https://editor.p5js.org/re7l/sketches/JKPIUlZq
 // https://p5js.org/reference 
-// Music called Hum by Daisuke Miyatani
+// Music called Hum by Daisuke Miyatani Copyright
 
 
 var start = 1;
