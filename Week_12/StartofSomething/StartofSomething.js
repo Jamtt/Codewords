@@ -26,7 +26,7 @@ let m;
 
 //PRELOAD----------------------------------------------------------------------
 function preload() {
-  song = loadSound('data/hum.mp3');
+  song = loadSound('data/Hum.mp3');
   font = loadFont('data/Redaction35-Regular.otf'); 
   bot.loadFile('bot.txt', Ready, Error);
 
