@@ -219,10 +219,10 @@ stroke(255);
 if (windowWidth >= 1024) {
 ellipse(width/2, height/2, size,size); 
 } 
-else if (windowWidth >= 700) { 
+else if (windowWidth >= 400) { 
 ellipse(width/2, height/2, size * 1.2,size * 1.2);  
 
-} else if (windowWidth < 400) { 
+} else if (windowWidth < 399) { 
 ellipse(width/2, height/2, size /1.5,size/1.5);
 }
 
