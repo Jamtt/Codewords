@@ -1,5 +1,5 @@
 // Chatbot's brain
-// Kira the Virus, Goal, to convince people that not all viruses are bad. 
+// Kira the Virus, build 1.0.
 ! version = 1.9
 
 
@@ -120,9 +120,10 @@
 - Oh great! Maybe we can chat a little about my purpose as a virus? Ask about me!{topic=random}
 < topic
 
-+ [*](fuck you|piss off|you are weird|i do not like you|be quiet|i hate you|you suck|stupid)[*]
++ [*](fuck you|fuck off|piss off|you are weird|i do not like you|be quiet|i hate you|you suck|stupid)[*]
 - Hey that's uncalled for. Please don't be so rude. 
 - Hey let's calm down a bit, I don’t mean any harm. 
+- Please don't be so rude. 
 
 //-----------------Meat------------------
 
