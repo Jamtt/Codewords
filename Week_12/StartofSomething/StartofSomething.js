@@ -1,11 +1,14 @@
 // "We’re not all bad" Conversation with a Virus
 // Built by Jamie Tung for Studio CodeWords run by Andy Simionato & Karen ann Donnachie.
 
-// References
+// Song "Hum" by Daisuke Miyatani. 
+//Typeface "Redaction" by Titus Kaphar and Reginald Dwayne Betts. 
+//Based on the text "Viruses Are Good for You" by Julian Dibbell. 
+
+// References for assistance
 // https://editor.p5js.org/re7l/sketches/RjwfE-_G
 // https://editor.p5js.org/re7l/sketches/JKPIUlZq
 // https://p5js.org/reference 
-// Music called Hum by Daisuke Miyatani
 
 
 var start = 1;
