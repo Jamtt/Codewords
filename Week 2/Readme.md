@@ -18,3 +18,7 @@ We continued our Brief 2 with part 3 of the book being given to us. Our group de
 For homework we were asked to tinker with another students letter form from last week. I decided to edit @natnathania 's and make her N rotate whilst still keeping her Xmouse colour change function. It was really great to see everyone elses work and trials with the letters and creativity with how they used code and I hope theres more of this sharing code in the future! Go Collaborative learning! 
 
 ![](Codewords.jpg)
+
+
+##### <= [Week 1](https://github.com/Jamtt/Codewords/blob/master/Week%201/Readme.md) | Wholesome Animal Crossing
+##### => [Week 3](https://github.com/Jamtt/Codewords/blob/master/Week%203/Readme.md) | Wholesome Animal Crossing
