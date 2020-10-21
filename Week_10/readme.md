@@ -33,3 +33,6 @@ Some feedback that Andy gave me was that the input was way too small and there w
 
 Heres a running progress [sketch](https://jamtt.github.io/Codewords/Week%209/StartofSomething/)
 
+##### <= [Week 9](https://github.com/Jamtt/Codewords/blob/master/Week%209/readme.md) | Friendly Virus
+##### => [Week 11](https://github.com/Jamtt/Codewords/blob/master/Week_11/readme.md) | More Minecraft!
+
