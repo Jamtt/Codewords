@@ -9,8 +9,11 @@ I also worked a lot on the RiveScript side of dialogue by create more of a struc
 
 ## Class Presentations
 During this session of class we worked on creating some assets for our sketches to be uploaded to an archive website of all our sketches in one place. Karen was live coding whilst Andy was helping out with submission questions and creating web friendly gifs and Images. Once everything was done we went through all the sketches of the class and everyone did a mini presentation on their work. It was so great to see all the progress come together into these beautiful sketches and I am very proud of what our class has been able to achieve. You can visit our class website [Here](https://simandy.github.io/codewords/). 
-![](Hero_Jamie.jpg)
-![](Gif Jamie.gif)
+
+![](Hero Jamie.jpg)
+
+![](Gif_Jamie.gif)
+
 And you can view my final sketch [Here](https://jamtt.github.io/Codewords/Week_12/StartofSomething/ ). 
 
 
