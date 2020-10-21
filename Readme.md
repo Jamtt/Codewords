@@ -1,6 +1,6 @@
 # Welcome to Codewords 👋
 
-A place where code and words become one. A documentation of Jamie's experience throughout the class CodeWords run by Karen ann Donnachie and Andy Simionato. 
+A place where code and words become one. A documentation of Jamie's learnings/findings, progress and experiences throughout the class CodeWords run by Karen ann Donnachie and Andy Simionato. 
 
 To fix all your problems use: 
 ```
