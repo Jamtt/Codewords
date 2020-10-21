@@ -21,17 +21,22 @@ Whilst also browsing about AI learning, I came across a super cool project about
 
 Throughout this week, I mainly worked on some adjustments to the appearance and experience of the sketch. I knew I wanted the environment to be contrastive from what people would usually expect from a virus. No sudden pop ups, no flashing red colours or any jarring text to speech audio. It needed to be a place that reflected my intentions of convincing people that not all viruses are bad. This not only needed to be done within the appearance but also the talking tone of the bot (but more on that later). I wanted to implement p5.sound into my sketch and have a song run on loop that would fill this ambient environment. I started collecting music and found a couple songs I really liked. These included ‘Falling Asleep with a Book on Your Chest – Lullatone,  eau – yutaka hirasaka and the one I decided to use, ‘Hum’ – Daisuke Mitatani. It’s a perfect ambient song with not too much detail so it fits nicely without attracting too much attention. 
 
+![](hum.jpg)
+
+> Listen to the song [Here](https://www.youtube.com/watch?v=myeoFIVsBGg)
+
+
 Secondly I decided to use the osc.freq() and osce.amp() within the p5.sound library too. This was a simple way in the library to play certain frequencies of sounds in a couple of different waveforms. I used this element within the talking of the bot to create a voice instead of having it just be the music and also assigned the frequency in the same tones as the song (A flat major). I also tried C Major full scale and in thirds but felt they were a bit too busy. 
 Minor changes
 
 Some minor appearance changes included shrinking the text size when the reply paragraph from RiveScript was too long. 
 
--Ensuring that when the reply.length was met, the sound of the frequencies would stop play. 
+- Ensuring that when the reply.length was met, the sound of the frequencies would stop play. 
 
--Locking the song so it would play once the mouse was pressed by not allow the user to play it again and maintain the loop.
+- Locking the song so it would play once the mouse was pressed by not allow the user to play it again and maintain the loop.
 
--Adding a slider that would change the sound of the talking and music which also changed the amplitude.getLevel() graphic. 
+- Adding a slider that would change the sound of the talking and music which also changed the amplitude.getLevel() graphic. 
 
 - Adjusting the layout composition to have better balance of visual elements. 
 
--Adding a match to change the colour of the background if a specific word is said by the user. (Thanks Karen for explaining match() to me). 
+- Adding a match to change the colour of the background if a specific word is said by the user. (Thanks Karen for explaining match() to me). 
