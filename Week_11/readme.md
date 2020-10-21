@@ -2,7 +2,12 @@
 
 ## A bit more Minecraft 
 
-As I was explaining what we exactly did in my studio to a friend and mentioning Minecraft, the Virtual art show of BLOCKDOWN was brought up. The exhibition is a collective of artists who decided to showcase their work in Minecraft using a couple of mods for displaying Images. The concept also tied into my work on progress GKO (Together Now) which was a virtual building 9 I was working on. The concept of exploring and being immersed in a virtual space was always appealing so I really enjoyed just running around on this server and taking time looking at artwork as if In person. I’d recommend checking it out but it does require you to have the Java edition of Minecraft. 
+As I was explaining what we exactly did in my studio to a friend and mentioning Minecraft, the Virtual art show of BLOCKDOWN was brought up. The exhibition is a collective of artists who decided to showcase their work in Minecraft using a couple of mods for displaying Images. The concept also tied into my work on progress GKO (Together Now) which was a virtual building 9 I was working on.
+
+![](5.PNG)
+
+
+The concept of exploring and being immersed in a virtual space was always appealing so I really enjoyed just running around on this server and taking time looking at artwork as if In person. I’d recommend checking it out but it does require you to have the Java edition of Minecraft. 
 
 ![](1.png) ![](3.png) ![](4.png)
 
