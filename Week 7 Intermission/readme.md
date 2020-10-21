@@ -20,4 +20,6 @@ Have a lookie [here](https://jamtt.github.io/Codewords/Files/MattDuncann/).
 Project uses Library p5.sound and functions such as addCue, sliders, buttons etc.
 *Note that it doesn't seem to run on Safari. Music by Matt Duncan
 
-WIP more to add here... 
+
+##### <= [Week 6](https://github.com/Jamtt/Codewords/blob/master/Week%206/Readme.md) | Thinking In Paper
+##### => [Week 7](https://github.com/Jamtt/Codewords/blob/master/Week%207/Readme.md) | What is Hip?
