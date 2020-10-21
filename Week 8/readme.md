@@ -54,4 +54,4 @@ Next would be a source for headlines about computer viruses. At first I was thin
 Ending on a quick note, looking back on my concept, I think that it could maybe incorporate more elements from the text rather then pulling one main quote/concept out of it.
 
 ##### <= [Week 7](https://github.com/Jamtt/Codewords/blob/master/Week%207/Readme.md) | What is Hip?
-##### => [Week 9](https://github.com/Jamtt/Codewords/blob/master/Week%209/Readme.md) | Friendly Virus
+##### => [Week 9](https://github.com/Jamtt/Codewords/blob/master/Week%209/readme.md) | Friendly Virus
