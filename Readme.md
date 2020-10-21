@@ -1,9 +1,11 @@
 # Welcome to Codewords 👋
 
-A place where code and words come togehter
+A place where code and words become one. A documentation of Jamie's experience throughout the class CodeWords run by Karen ann Donnachie and Andy Simionato. 
 
-"BingoBongo" 
-> -Karen Ann Donnachie
+To fix all your problems use: 
+```
+console.log('it works!');
+```
 
 ![](Animalcrossing.gif)
 
@@ -28,10 +30,15 @@ A place where code and words come togehter
 
 ### <a href="Week 9">Week Nine</a> | Friendly Virus
 
+### <a href="Week 10">Week Ten</a> | Progress
 
-To fix all your problems use: 
-```
-console.log('it works!');
-```
+### <a href="Week_11">Week Eleven</a> | More Minecraft
+
+### <a href="Week_12">Week Twelve</a> | Conclude
+
+##### [We're Not All Bad](https://jamtt.github.io/Codewords/Week_12/StartofSomething/) | My finshed Sketch 
+
+##### [Our CodeWords Website](https://simandy.github.io/codewords/)
+
 
 
