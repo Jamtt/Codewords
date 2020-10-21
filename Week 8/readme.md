@@ -51,5 +51,7 @@ In terms of API’s, I’ve only used a couple but never with p5js so I had a lo
 
 Next would be a source for headlines about computer viruses. At first I was thinking of using a news website but was worried that 1, there wouldn’t be enough results and 2, the searches could contain lots of covid-19 related articles. Possibly grabbing headlines from a google search would be more affective but at this moment I’m not sure if its doable or not.  
 
-Ending on a quick note, looking back on my concept, I think that it could maybe incorporate more elements from the text rather then pulling one main quote/concept out of it. 
+Ending on a quick note, looking back on my concept, I think that it could maybe incorporate more elements from the text rather then pulling one main quote/concept out of it.
 
+##### <= [Week 7](https://github.com/Jamtt/Codewords/blob/master/Week%207/Readme.md) | What is Hip?
+##### => [Week 9](https://github.com/Jamtt/Codewords/blob/master/Week%209/Readme.md) | Friendly Virus
