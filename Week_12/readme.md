@@ -1,4 +1,4 @@
-# Week 12
+# Week 12 | Conclude
 Time has passed so quickly that we are already in the last week of CodeWords! It’s a bit crazy looking back on these 12 weeks and seeing how much code I’ve learnt. Now I just have to retain it and keep on learning (more reflection in a bit).
 
 ## Some last-minute adjustments
@@ -10,9 +10,9 @@ I also worked a lot on the RiveScript side of dialogue by create more of a struc
 ## Class Presentations
 During this session of class we worked on creating some assets for our sketches to be uploaded to an archive website of all our sketches in one place. Karen was live coding whilst Andy was helping out with submission questions and creating web friendly gifs and Images. Once everything was done we went through all the sketches of the class and everyone did a mini presentation on their work. It was so great to see all the progress come together into these beautiful sketches and I am very proud of what our class has been able to achieve. You can visit our class website [Here](https://simandy.github.io/codewords/). 
 
-![](Hero Jamie.jpg)
+![](2.jpg)
 
-![](Gif_Jamie.gif)
+![](1.gif)
 
 And you can view my final sketch [Here](https://jamtt.github.io/Codewords/Week_12/StartofSomething/ ). 
 
