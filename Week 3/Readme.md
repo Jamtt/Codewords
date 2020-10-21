@@ -17,3 +17,6 @@ We also joined AI dungeon as a class which is an online text based choose your o
 
 ## Brief 2
 For the continuation of brief 2, we gathered as a group to discuss how to split the roles of production and began to break down what areas of the chapter we would recreate in our virtual world. An example that we found which was a type of machinima was a [horror movie trailer](https://www.youtube.com/watch?v=bVx3Xp9OVE8) done by Evil Imp on youtube. It combined the cute aesthetic qualities of animal crossing and introduced creative in game mechanics to portray a narrative.  
+
+##### <= [Week 2](https://github.com/Jamtt/Codewords/blob/master/Week%202/Readme.md) | Wholesome Animal Crossing
+##### => [Week 4](https://github.com/Jamtt/Codewords/blob/master/Week%204/Readme.md) | Building WIP
