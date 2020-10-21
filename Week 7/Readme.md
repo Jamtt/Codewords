@@ -51,5 +51,8 @@ Second sketch was a simpler approach which also used sin waves and rotate but wi
 
 I hope it makes you Hip 💃
 
+##### <= [Intermission](https://github.com/Jamtt/Codewords/blob/master/Week%207%20Intermission/readme.md) | Intermission
+##### => [Week 8](https://github.com/Jamtt/Codewords/blob/master/Week%208/readme.md) | Classes in Class
+
 
 
