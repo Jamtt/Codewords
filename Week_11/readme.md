@@ -45,3 +45,6 @@ Some minor appearance changes included shrinking the text size when the reply pa
 - Adjusting the layout composition to have better balance of visual elements. 
 
 - Adding a match to change the colour of the background if a specific word is said by the user. (Thanks Karen for explaining match() to me). 
+
+##### <= [Week 10](https://github.com/Jamtt/Codewords/blob/master/Week_10/readme.md) | Progress
+##### => [Week 12](https://github.com/Jamtt/Codewords/blob/master/Week_12/readme.md) | Conclude
