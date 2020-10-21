@@ -18,3 +18,6 @@ It was a deeper read that required multiple passes and dissection but to summari
 
 This would later be helpful when picking a text for brief 3 as each student did a summary on a different text, allowing the class to find something of interest without reading too far into a particular text. 
 To view other students summaries click [here](https://docs.google.com/presentation/d/1tF9j3J75aVpLWOs6R_vCNQty8WjL-_AfgO9TgyKLoq0/edit#slide=id.p).
+
+##### <= [Week 4](https://github.com/Jamtt/Codewords/blob/master/Week%202/Readme.md) | Building WIP
+##### => [Week 6](https://github.com/Jamtt/Codewords/blob/master/Week%206/Readme.md) | Thinking In Paper
