@@ -25,4 +25,8 @@ What’s in my brain at the moment:
 *Possibly a little trust test could be implemented at the end with a download element where the virus asks if you trust it enough to download something? 
 
 *Also adding a time and location would be cool to the tweet? Saying that viruses move around the internet and can be in multiple locations at once, convincing people across the world?
-So that’s where my ideas at for the moment. I prefer it much more than my first one and feel a lot more motivated to work on it and hopefully refine it. 
+So that’s where my ideas at for the moment. I prefer it much more than my first one and feel a lot more motivated to work on it and hopefully refine it.
+
+##### <= [Week 8](https://github.com/Jamtt/Codewords/blob/master/Week%208/readme.md) | Classes in Class
+##### => [Week 10](https://github.com/Jamtt/Codewords/blob/master/Week_10/readme.md) | Progress
+
