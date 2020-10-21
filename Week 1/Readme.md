@@ -32,6 +32,6 @@ I also worked on another letter which was a transition between the upper and low
 I had already done some work in P5js prior to this with a project called Just my Type for a design group called Ctrl+. This particular project assigned some students within the group to create an assigned letter in their style. This was also an oppertunity to learn how to use P5.js as I only knew about HTML and CSS prior. It uses some basic key pressed functions to display images and can be viewed [here](http://www.ctrlplus.club/). 
 > Special thanks to Karen for helping me out with some coding questions! 
 
-##### Next Week => <a href="Week 2">Week Two</a> | Wholesome Animal Crossing
+##### Next Week => <a href="./Week 2">Week Two</a> | Wholesome Animal Crossing
 
 
