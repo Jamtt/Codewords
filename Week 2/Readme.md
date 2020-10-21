@@ -20,5 +20,5 @@ For homework we were asked to tinker with another students letter form from last
 ![](Codewords.jpg)
 
 
-##### <= [Week 1](https://github.com/Jamtt/Codewords/blob/master/Week%201/Readme.md) | Wholesome Animal Crossing
-##### => [Week 3](https://github.com/Jamtt/Codewords/blob/master/Week%203/Readme.md) | Wholesome Animal Crossing
+##### <= [Week 1](https://github.com/Jamtt/Codewords/blob/master/Week%201/Readme.md) | CodeWords!
+##### => [Week 3](https://github.com/Jamtt/Codewords/blob/master/Week%203/Readme.md) | Electronic Lit
