@@ -6,17 +6,22 @@ Looking around on the web I stumbled across some rather interesting sketches. Fi
 [Sentiment_Interactive](https://editor.p5js.org/ml5/sketches/Sentiment_Interactive)
 
 This pre trained model that knew words that were common to others was also pretty interesting. Training a model seemed like teaching a kid how to talk or why words related to others. The concept I wanted to create would probably not be as smart as a kid though. 
+
 [Training](https://editor.p5js.org/ml5/sketches/Word2Vec_Interactive)
 
-After doing some research I decided to look into a  small AI chatbot program called RiveScript. It’s function was simple in that you would simply have a input and output and if the input matched then it would deliver the output. The dialogue segment is written in a txt file and implementation into p5.js was very possible with some tweaking. [RiveScript](https://www.rivescript.com/about) 
+After doing some research I decided to look into a  small AI chatbot program called RiveScript. It’s function was simple in that you would simply have a input and output and if the input matched then it would deliver the output. The dialogue segment is written in a txt file and implementation into p5.js was very possible with some tweaking. 
+
+[RiveScript](https://www.rivescript.com/about) 
 
 ## Some random inspiration 
 
 The Network 2016 was a super cool collaboration by Bjørn Karmann, Nicolas Armand and Daan Weijers. The project is a data visualsation that show all the people that have graduated from CIID, the countries they came from, the companies they have worked at and their years as students. It’s a combination of print media, projection and coding and I just love the way information can be displayed so creatively. 
+
 [The Network](http://bjoernkarmann.dk/thenetwork)
 ![](1.jpg) ![](2.jpg)
 
 Another being more relevant to my sketch was a really nice processing sketch of words floating away after appearing for a certain amount of time. I think this is 100% doable in p5js with our new knowledge of classes but I didn’t think it fit with the reading I had. However an element that did appeal to me was the appearance of type in a writing manner. This was something that I really wanted in my sketch as it would subtly break the concept that you were talking to your computer and feel more human like to wait for text instead of getting instant replies like the default of RiveScript. 
+
 [Source](https://www.openprocessing.org/sketch/446720)
 ![](5.gif)
 
