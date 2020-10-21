@@ -26,5 +26,7 @@ Overall this class has been a pleasure to be apart of. Thankyou again to Karen A
 
 -Jamie 
 
+![](i.png)
+
 
 ##### <= [Menu](https://github.com/Jamtt/Codewords) 
