@@ -8,6 +8,7 @@ For myself, It’s been a journey of discovery through electronic literature and
 
 Finally a little bit about my own documentation. I personally am not a writer so you may have to excuse some casual phrasing and slang here and there. My intentions are to create a human like way of talking about my progress to contrast from the nature of coding language and its formalities. The structure has been organised in weeks of progress, each showcasing what has been done within that week either from class or personal researching and progress. The weeks are split into various topics explored and can contain various links and Images to external sources. At the bottom of each week there is navigation to either go to the previous or next week. 
 
+
 ![](Animalcrossing.gif)
 
 
