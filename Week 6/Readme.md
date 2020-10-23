@@ -11,7 +11,12 @@ I came up with the idea of adding pong to asteroids aka “Pongstroids” -@Hami
 
 ## Brief 3 | Picking a Text
 
-We then confirmed the texts would be basing our final assignment on. For myself I chose the text Viruses Are Good for You by [Julian Dibbell](https://en.wikipedia.org/wiki/Julian_Dibbell). This read was interesting read as it shed light on how people viewed Viruses as these unknown and alien like code and that not knowing what it they are capable of doing was scary for most people. Unlike a biological virus, these viruses are products of humans through culture, so it begs the question of why they scare us and feel so unhuman? I will continue to read through Dibbell’s article for ideas and themes in which I will translate to a paper prototype for my final brief. 
+We then confirmed the texts would be basing our final assignment on. For myself I chose the text Viruses Are Good for You by [Julian Dibbell](https://en.wikipedia.org/wiki/Julian_Dibbell).
+
+![](j.jpg)
+
+This was an interesting read as it shed light on how people viewed Viruses as these unknown and alien like creatures. That not knowing what it was capable of doing was scary for most people. Unlike a biological virus, these viruses are products of humans through culture, so it begs the question of why they scare us and feel so unhuman? So why did I pick this piece? I really connected with the concept of not knowing something and being afraid of it. This applies to many areas of my life where sometimes I feel its unfamiliarity makes me want to stay away from it or label it as dangerous. Despite having resources like Google, I can still feel this way at times so I felt that it could be interesting to see how to unravel and interpret this concept of familiarising one’s self with viruses in p5js.
+I will continue to read through Dibbell’s article for ideas and themes in which I will translate to a paper prototype for my final brief. 
 
 ##### <= [Week 5](https://github.com/Jamtt/Codewords/blob/master/Week%205/Readme.md) | Showtime
 ##### => [Intermission](https://github.com/Jamtt/Codewords/blob/master/Week%207%20Intermission/readme.md) | Intermission
