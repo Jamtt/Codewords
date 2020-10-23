@@ -2,7 +2,7 @@
 This week touched into the modular typeface designs and algorithmic type creations which related to our previous letter forms we created in P5js. We also began exploring our chosen virtual world by jumping into a space together and figuring out some possible limitations.
 
 ## Takenobu Igarashi
-An artist that stood out to me was Takenobu Igarashi, a graphic, product, environmental and sculpture designer who worked with lucid forms of type. Shown below are examples of his Jazz Festival posters which use a simple shapes in a certain perspective to create letterforms. Igarashi’s type design was often built from simple geometric shapes but the composition and placement of those shapes were what made his work unique and iconic. 
+An artist that stood out to me was Takenobu Igarashi, a graphic, product, environmental and sculpture designer who worked with lucid forms of type. Shown below are examples of his Jazz Festival posters which use a simple shapes in a certain perspective to create letterforms. Igarashi’s type design was often built from simple geometric shapes but the composition and placement of those shapes were what made his work unique and iconic. I began to really think about the possibilities of P5js when seeing work like this and wanted to learn more about the flavour and is various functions. 
 
 ![](1.jpg)
 
@@ -10,7 +10,7 @@ To see what examples of modular typefaces click [here](https://docs.google.com/p
 
 ## Animal Crossing 
 
-We continued our Brief 2 with part 3 of the book being given to us. Our group decided to test out our virtual space and test the waters for any limitations of possible hurdles to come our way. Those included getting everyone together as Animal Crossings way of connecting users was slow and clunky and the limitations with recording being 30 seconds per clip and it being recorded backwards in time. Nevertheless we still managed to all get together! To view what virtual spaces other students chose click [here](https://docs.google.com/presentation/d/1c1KexKLj99n7Z-FLky9NW8Zqkgk1uo2tdibFXJoCwYc/edit#slide=id.p).
+We continued our Brief 2 with part 3 of the book being given to us. Our group decided to test out our virtual for any limitations or possible hurdles to come our way. Those included getting everyone together as Animal Crossing's way of connecting users was slow and clunky and the limitations with recording being 30 seconds per clip aswell as being recorded backwards in time. Nevertheless we still managed to all get together! To view what virtual spaces other students chose click [here](https://docs.google.com/presentation/d/1c1KexKLj99n7Z-FLky9NW8Zqkgk1uo2tdibFXJoCwYc/edit#slide=id.p). This is a gif of us all together on Roby's island testing recording and movement.
 
 ![](Animalcrossing.gif)
 
