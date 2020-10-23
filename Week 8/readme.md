@@ -3,7 +3,8 @@
 From last weeks existing 4 prototypes, I took a little from each and merged them into a final design Idea which still needs some variables fleshed out. The idea is as follows and written is pseudocode: 
 
 
-``` // VIRUSES AREN'T BAD I PROMISE
+``` 
+// VIRUSES AREN'T BAD I PROMISE
 
 IF no text on the page, 
 Press button.
