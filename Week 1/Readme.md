@@ -1,6 +1,6 @@
 # Week One | CodeWords!
 
-We jumped into class with an introduction to codewords!!! and a little bit about Karen and Andy with some interesting projects that they had worked on. The one that stood out to me was their work perception and their library of nonhuman books. This relation between code and type was one that I had not thought about much as words always felt very human, carefully though out and written down whereas code felt like machines and commands. This bridge that this studio attempts to connect felt new,innovative and exciting!
+We jumped into class with an introduction to CodeWords!!! and a little bit about Karen and Andy with some interesting projects that they had been working on. The one that stood out to me was their work perception and library of nonhuman books. This relation between code and type was one that I had never thought about as words always felt very human, carefully thought out and written down whereas code felt like machines and commands. This bridge that this studio attempts to connect felt new,innovative and very exciting!
 
 ## Virtual Worlds
 We spoke a little about virtual worlds and them being used to connect and host events. One example was [Travis Scott](https://www.youtube.com/watch?v=wYeFAlVC8qU) preforming his concert in the popular battle royal game Fortnite. To me this was particularly interesting as I thought that the pandemic would disconnect people from interacting with others in events like concerts. I felt it was an interesting result to our current limitations and this transition to online spaces will continue to happen in the future. 
@@ -24,13 +24,15 @@ We were also asked to begin working in p5js and create a letter or initials in t
 ![](gif1.gif)
 > You can visit the sketch [here](https://jamtt.github.io/Codewords/Files/JT_Sketch/). 
 
-I also worked on another letter which was a transition between the upper and lowercase E. This one I used a `mouseX` variable to control the transition of the letter.
+I also worked on another letter which was a transition between the upper and lowercase E. This one I used a `mouseX` variable to control the transition of the letter.Both using mapping to obtain the correct values for a full transition. 
 
 ![](e.PNG)
 > You can visit the sketch [here](https://jamtt.github.io/Codewords/Files/E_Sketch/).
 
-I had already done some work in P5js prior to this with a project called Just my Type for a design group called Ctrl+. This particular project assigned some students within the group to create an assigned letter in their style. This was also an oppertunity to learn how to use P5.js as I only knew about HTML and CSS prior. It uses some basic key pressed functions to display images and can be viewed [here](http://www.ctrlplus.club/). 
+I had already done some work in P5js prior to this with a project called Just my Type for a design group called Ctrl+. This particular project assigned some students within the group to create an assigned letter in their style. This was also an oppertunity to learn how to use P5js as I only knew about HTML and CSS prior. It uses some basic key pressed functions to display images aswell as some for loops to load images quickly. The project can be viewed [here](https://jamtt.github.io/CtrlPlus/). 
 > Special thanks to Karen for helping me out with some coding questions! 
+
+![](ctrl.PNG)
 
 ##### => [Week 2](https://github.com/Jamtt/Codewords/blob/master/Week%202/Readme.md) | Wholesome Animal Crossing
 
