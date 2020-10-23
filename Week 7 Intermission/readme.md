@@ -16,9 +16,11 @@ This project was helpful in familiarising pseudocode and preplanning to achieve 
 
 Another little project I did more for myself which introduced the library of p5.sound was a project I made with the song “This time in Christmas” by Matt Duncan. This was my first time experimenting with sound on the web and I discovered the possibilities this library had to offer. I’ve always loved the concept of having typography mixed in with audio and thought this could be a good opportunity to see what I could do with this library and if I could possibly implement it into my final project. I also added piano cat in there to spice up that festive music spirit! 
 
+*note that when using p5sound, an audio file needs an action to be played on chrome now. This is a change that has just been made to chrome and seems to work without a trigger on firefox.
+
 Have a lookie [here](https://jamtt.github.io/Codewords/Files/MattDuncann/). 
 Project uses Library p5.sound and functions such as addCue, sliders, buttons etc.
-*Note that it doesn't seem to run on Safari. Music by Matt Duncan
+Music by Matt Duncan
 
 
 ##### <= [Week 6](https://github.com/Jamtt/Codewords/blob/master/Week%206/Readme.md) | Thinking In Paper
