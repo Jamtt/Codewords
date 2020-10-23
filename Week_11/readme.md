@@ -6,6 +6,8 @@ As I was explaining what we exactly did in my studio to a friend and mentioning 
 
 ![](5.PNG)
 
+> Together Now (WIP)
+
 
 The concept of exploring and being immersed in a virtual space was always appealing so I really enjoyed just running around on this server and taking time looking at artwork as if In person. I’d recommend checking it out but it does require you to have the Java edition of Minecraft. 
 
