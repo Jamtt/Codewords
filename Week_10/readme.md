@@ -15,13 +15,16 @@ After doing some research I decided to look into a  small AI chatbot program cal
 
 The Network 2016 was a super cool collaboration by Bjørn Karmann, Nicolas Armand and Daan Weijers. The project is a data visualsation that show all the people that have graduated from CIID, the countries they came from, the companies they have worked at and their years as students. It’s a combination of print media, projection and coding and I just love the way information can be displayed so creatively. 
 
-[The Network](http://bjoernkarmann.dk/thenetwork)
+
 ![](1.jpg) ![](2.jpg)
 
+>[The Network](http://bjoernkarmann.dk/thenetwork)
+
 Another being more relevant to my sketch was a really nice processing sketch of words floating away after appearing for a certain amount of time. I think this is 100% doable in p5js with our new knowledge of classes but I didn’t think it fit with the reading I had. However an element that did appeal to me was the appearance of type in a writing manner. This was something that I really wanted in my sketch as it would subtly break the concept that you were talking to your computer and feel more human like to wait for text instead of getting instant replies like the default of RiveScript. 
-[Source](https://www.openprocessing.org/sketch/446720)
 
 ![](5.gif)
+
+> [Source](https://www.openprocessing.org/sketch/446720)
 
 ## Progress on Sketch
 
